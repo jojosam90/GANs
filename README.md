@@ -42,6 +42,33 @@ This is a good generator and able to generate the faces as the end value result 
 
 ![image](https://user-images.githubusercontent.com/77944932/164004396-63c66a1e-074e-4917-8511-554edb98df81.png)
 
+![image](https://user-images.githubusercontent.com/77944932/164005383-05ee3b8f-aefa-4ded-b5b4-9361e5bf6b82.png)
+
+![image](https://user-images.githubusercontent.com/77944932/164005474-5f4d6416-c86e-4c39-9340-6ca6fd192165.png)
+
+## The training process : Backpropagation
+
+![image](https://user-images.githubusercontent.com/77944932/164005870-c68da903-9d64-42be-923b-b1f23d075b56.png)
+
+First taking data point and perform forward pass, calculate prediction and calculate error based on log loss, take the derivative of the error based on all weight using chain rule to tell us how much to obtain each weight in order to best decrease the error (gradient descent).
+Plot the error and calculate gradient which is the direction of greatest growth and then take a tiny step in the direction of negative of this gradient in order to find new parameter that decrease error as much as possible.
+
+![image](https://user-images.githubusercontent.com/77944932/164006956-650c6227-ba5e-45a8-9954-8e82b93d4910.png)
+
+![image](https://user-images.githubusercontent.com/77944932/164006992-0d69962b-68ec-433b-bd3d-6c225019c042.png)
+
+## Training the generator and discriminator
+
+Set the random z value (between 0 and 1) as input to generator, do a forward pass to obtain some image which is probably face (generated image). Then pass generated images to discriminator to tell is fake or real. Discriminator output probability.
+
+![image](https://user-images.githubusercontent.com/77944932/164008599-32641c97-e177-46c1-a030-d9e74e968443.png)
+
+![image](https://user-images.githubusercontent.com/77944932/164008713-4fc78a3b-7b93-4ffc-a117-950b13ec9b7f.png)
+
+![image](https://user-images.githubusercontent.com/77944932/164008882-f693e0dd-5bc9-4db6-8cf5-2879a1d5c17b.png)
+
+
+
 
 
 
