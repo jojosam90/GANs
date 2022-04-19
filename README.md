@@ -1,4 +1,4 @@
-# GANs
+# GANs (Generative Adversarial Networks)
 ## General ideas
 GANs consists of a pair of neural networks that fight with each other. 
 One is called generator and another one is called discriminator.
