@@ -26,3 +26,14 @@ Threshold = 1
 More than 1: face.
 Less than 1 : no face.
 
+![image](https://user-images.githubusercontent.com/77944932/164002991-f142b159-ddd4-443a-9a06-655db76f72be.png)
+
+![image](https://user-images.githubusercontent.com/77944932/164003062-e710e4ee-87b1-4976-ba83-2bb4dcb3ede3.png)
+
+![image](https://user-images.githubusercontent.com/77944932/164003148-672c470a-1b8c-4b55-9e62-b6cb48356059.png)
+
+## Build the Generator
+
+![image](https://user-images.githubusercontent.com/77944932/164003303-5044b33b-e2db-4dd9-8692-de32bbead4f4.png)
+
+
