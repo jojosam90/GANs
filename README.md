@@ -1,1 +1,2 @@
 # GANs
+## General ideas
