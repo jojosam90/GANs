@@ -1,5 +1,14 @@
 # GANs (Generative Adversarial Networks)
+
+Belong to set of algorithms named generative models.
+Belong to unsupervised learning.
+
+![image](https://user-images.githubusercontent.com/77944932/164015759-ee793f2d-5691-4b7c-8563-62e988618706.png)
+
 Application : Text / Image / Video Generation , Text-to-image synthesis
+
+![image](https://user-images.githubusercontent.com/77944932/164015210-2163792f-fbc5-48d9-8fbb-1e3298e2931d.png)
+
 ## General ideas
 GANs consists of a pair of neural networks that fight with each other. 
 One is called generator and another one is called discriminator.
