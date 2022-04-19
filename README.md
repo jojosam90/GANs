@@ -36,4 +36,42 @@ Less than 1 : no face.
 
 ![image](https://user-images.githubusercontent.com/77944932/164003303-5044b33b-e2db-4dd9-8692-de32bbead4f4.png)
 
+![image](https://user-images.githubusercontent.com/77944932/164003750-d81cefbc-77f9-4c03-80d2-3d5728a31331.png)
+ 
+This is a good generator and able to generate the faces as the end value result is high and also the value for top left and bottom right are always big and the values for the corresponding value are smalls.
+
+![image](https://user-images.githubusercontent.com/77944932/164004396-63c66a1e-074e-4917-8511-554edb98df81.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
