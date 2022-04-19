@@ -22,4 +22,7 @@ Method : Add the two values correspoonding and subtract the values corresponding
 ![image](https://user-images.githubusercontent.com/77944932/164002134-a9a44709-02d9-4c58-a89e-69cf5e6bf9b6.png)
 
 For faces, the end result value is high and for non-faces, the end result value is low.
+Threshold = 1
+More than 1: face.
+Less than 1 : no face.
 
